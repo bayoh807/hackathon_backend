@@ -3,7 +3,7 @@ package bootstrap
 import (
 	"github.com/goravel/framework/foundation"
 
-	"goravel/config"
+	"Hackathon/config"
 )
 
 func Boot() {

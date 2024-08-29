@@ -3,7 +3,7 @@ package routes
 import (
 	"github.com/goravel/framework/facades"
 
-	"goravel/app/http/controllers"
+	"Hackathon/app/http/controllers"
 )
 
 func Api() {
